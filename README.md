@@ -41,4 +41,4 @@ A local volunteer team in Khan Younis is requesting immediate assistance to prov
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/accessible-generosity-translator.git](https://github.com/YOUR_GITHUB_USERNAME/accessible-generosity-translator.git)
+   git clone [https://github.com/doaaa04/accessible-generosity-translator.git](https://github.com/doaaa04/accessible-generosity-translator.git)
